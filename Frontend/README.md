@@ -19,11 +19,9 @@ Certifique-se de ter instalado em sua máquina:
 - [Git]
 
 ### Rodando o Frontend
-1. Acesse a pasta Frontend
-- cd ../Frontend/crud-front-aviso
-2. Instale as dependências
+1. Instale as dependências
 - npm install
-3. Inicie o servidor
+2. Inicie o servidor
 - npm start
 
 
