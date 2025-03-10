@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 
 
-### Rodando o Frontend
+### Rodando o Backend
 1. Instale as dependências
 - npm install 
 2. Inicie o servidor
